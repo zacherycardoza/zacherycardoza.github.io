@@ -3,6 +3,14 @@ import Project from "./Project";
 export default function Projects() {
   let Projects = [
     {
+      id: 6,
+      name: "TaskForge",
+      img_file_type: "png",
+      demo_url: "https://taskforge-40684ecd074c.herokuapp.com/dashboard",
+      description:
+        "TaskForge is a modern, lightweight task management web app built with Laravel and Tailwind CSS. It helps users organize, prioritize, and track tasks efficiently with a clean, responsive interface. Features include task categorization, due dates, status tracking, and a fully responsive dashboard, making productivity simple and intuitive",
+    },
+    {
       id: 1,
       name: "Quick Launch",
       img_file_type: "jpg",
