@@ -35,7 +35,7 @@ export default function Project({ project }) {
             "
         >
           <a
-            href={project.demo_url}
+            href={project.github_url}
             target="_blank"
             className="
               accent-bottom-border
@@ -97,7 +97,7 @@ export default function Project({ project }) {
             "
         >
           <a
-            href={project.demo_url}
+            href={project.github_url}
             target="_blank"
             className="
               accent-bottom-border
