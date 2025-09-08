@@ -31,7 +31,7 @@ export default function Projects() {
         "A lightweight Chrome extension built with JavaScript that allows users to instantly open a custom set of websites with a single click. Designed for speed and convenience, it streamlines daily browsing routines and boosts productivity by eliminating repetitive manual tab opening",
     },
     {
-      id: 3,
+      id: 4,
       name: "Movie List",
       img_file_type: "png",
       demo_url: "https://zacherycardoza.github.io/MovieProject/",
