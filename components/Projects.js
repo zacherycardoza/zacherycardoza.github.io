@@ -6,7 +6,7 @@ export default function Projects() {
       id: 7,
       name: "HeadlinesAI",
       img_file_type: "png",
-      demo_url: "https://still-stream-03635-42227c4ecf34.herokuapp.com/",
+      demo_url: "https://headlinesai-34b8270aa712.herokuapp.com/",
       github_url: "https://github.com/zacherycardoza/headlinesAI",
       description:
         "A full-stack news aggregator built with Laravel and Tailwind CSS, leveraging AI to summarize articles in real-time. Fetches the latest content via RSS feeds and APIs, categorizes by topics, and delivers personalized summaries to users. Optimized for scalability with queued jobs and dynamic topic selection",
