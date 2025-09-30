@@ -18,7 +18,7 @@ export default function Projects() {
       demo_url: "https://headlinesai-34b8270aa712.herokuapp.com/",
       github_url: "https://github.com/zacherycardoza/headlinesAI",
       description:
-        "A full-stack news aggregator built with Laravel and Tailwind CSS, leveraging AI to summarize articles in real-time. Fetches the latest content via RSS feeds and APIs, categorizes by topics, and delivers personalized summaries to users. Optimized for scalability with queued jobs and dynamic topic selection",
+        "A full-stack news aggregator built with Laravel and Tailwind CSS, leveraging AI to summarize articles in real-time. Fetches the latest content via RSS feeds and APIs, categorizes by topics, and delivers personalized summaries to users",
     },
     {
       id: 6,
@@ -27,7 +27,7 @@ export default function Projects() {
       demo_url: "https://taskforge-40684ecd074c.herokuapp.com/dashboard",
       github_url: "https://github.com/zacherycardoza/TaskForge",
       description:
-        "TaskForge is a modern, lightweight task management web app built with Laravel and Tailwind CSS. It helps users organize, prioritize, and track tasks efficiently with a clean, responsive interface. Features include task categorization, due dates, status tracking, and a fully responsive dashboard, making productivity simple and intuitive",
+        "TaskForge is a modern, lightweight task management web app. It helps users organize, prioritize, and track tasks efficiently with a clean, responsive interface. Features include task categorization, due dates, status tracking, and a fully responsive dashboard, making productivity simple and intuitive",
     },
     {
       id: 1,
