@@ -3,6 +3,15 @@ import Project from "./Project";
 export default function Projects() {
   let Projects = [
     {
+      id: 8,
+      name: "ApplyWise",
+      img_file_type: "png",
+      demo_url: "https://applywise.laravel.cloud",
+      github_url: "https://github.com/zacherycardoza/applywise",
+      description:
+        "A full-stack AI-powered ATS resume scanner built with Laravel and deployed on Laravel Cloud. Leverages AI to analyze resumes against job descriptions, extract key skills, and provide actionable recommendations to help candidates optimize their applications. Designed for scalability with queued jobs, dynamic resume processing, and real-time scoring",
+    },
+    {
       id: 7,
       name: "HeadlinesAI",
       img_file_type: "png",
@@ -29,15 +38,6 @@ export default function Projects() {
       github_url: "https://github.com/zacherycardoza/quick-launch",
       description:
         "A lightweight Chrome extension built with JavaScript that allows users to instantly open a custom set of websites with a single click. Designed for speed and convenience, it streamlines daily browsing routines and boosts productivity by eliminating repetitive manual tab opening",
-    },
-    {
-      id: 4,
-      name: "Movie List",
-      img_file_type: "png",
-      demo_url: "https://zacherycardoza.github.io/MovieProject/",
-      github_url: "https://github.com/zacherycardoza/MovieProject",
-      description:
-        "A React-based web application that integrates with the MovieDB API, allowing users to search for films, view key details, and curate a personalized favorites list. Built with a focus on responsive design and smooth user experience, it demonstrates dynamic API integration and state management in React",
     },
   ];
 
