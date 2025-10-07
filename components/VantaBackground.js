@@ -16,12 +16,12 @@ const VantaBackground = () => {
         gyroControls: false,
         minHeight: 200.0,
         minWidth: 200.0,
-        scale: 1.0,
+        scale: 0.5,
         scaleMobile: 1.0,
         backgroundColor: 0x000000,
-        color: 0x00000,
-        zoom: 0.65,
-        waveSpeed: 0.25,
+        color: 0x111111,
+        zoom: 0.4,
+        waveSpeed: 0.15,
       });
     }
 
